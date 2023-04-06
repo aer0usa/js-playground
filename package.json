@@ -1,0 +1,15 @@
+{
+  "name": "js-playground",
+  "version": "1.0.0",
+  "description": "A place to play with javascript",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "node fetch.js"
+  },
+  "type": "module",
+  "author": "Eric",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
+}
